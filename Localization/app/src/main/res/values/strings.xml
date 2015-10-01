@@ -1,0 +1,10 @@
+
+<resources>
+<string name="app_name">My Application</string>
+<string name="hello_world">Hello world!</string>
+<string name="action_settings">Settings</string>
+<string name="hindi">ట్యుటోరియల్స్ పాయింట్</string>
+<string name="marathi">शिकवण्या बिंदू</string>
+<string name="arabic">نقطة الدروس7</string>
+<string name="chinese">教程点</string>
+</resources>
